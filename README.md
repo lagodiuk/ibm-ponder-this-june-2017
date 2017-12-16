@@ -37,6 +37,10 @@ The link to the PDF file with description of the solution: [yurii_lahodiuk_june_
 
 The Java implementation of the described solution: [ArithmeticExpressionsSolver.java](ArithmeticExpressionsSolver.java)
 
+In order to execute the solution it is just needed to run the method `main` of the class `ArithmeticExpressionsSolver`.
+
+*Remark: of course this code is NOT of a production quality. The biggest accent is made on the succinct implementation of the described algorithm in combination with runtime and memory optimizations. Also, I was trying to use the meaningful names of the variables and functions, however sometimes it was not easy to came up with a proper naming.*
+
 ## Answer
 
 There are only two 7-digit numbers, which satisfy the conditions of the problem: **0397799** and **0765533**
